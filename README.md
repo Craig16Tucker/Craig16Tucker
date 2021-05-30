@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Craig16Tucker
+- 👀 I’m interested in gameDev
+- 🌱 I’m currently learning c++ and UE4
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me Discord: Craig16Tucker#5461
